@@ -67,10 +67,6 @@ footer p {
     margin: 1rem 0;
 }
 
-.empty {
-    display: none;
-}
-
 @media screen and (min-width: 768px) {
     .wrapper {
         width: 750px;
